@@ -18,6 +18,9 @@ body {
     grid-template-columns: 1fr 1fr 1fr ;
     gap:5px;
 }
+.operators {
+    margin-top: 5px;
+}
 #display {
     margin: 0 0 1rem 0; 
 }
